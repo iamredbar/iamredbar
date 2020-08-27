@@ -1,4 +1,4 @@
-## Hello I'm Brendan
+## Hello, I'm Brendan.
 
 - 🌱 I’m currently learning: component level repair of hardware
 - 💪 I’m currently working on: private coding projects on the BitShares blockchain

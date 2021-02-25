@@ -3,4 +3,4 @@
 - 💪 I’m currently working on: private and open source projects on [BitShares](https://github.com/bitshares)
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: iamredbar at protonmail dot com
-- Favorite emojis right now: 👍 🤷‍♂️ 🎉 😂 🤦‍♂️
+- Favorite emojis right now: 👍 👀 🤷‍♂️ 🤙 😎
